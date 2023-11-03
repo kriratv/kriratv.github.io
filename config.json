@@ -7,7 +7,7 @@
 "updateSize": "6.68",
 "update_web": "https://www.kriratv.com/",
 "live_score": "https://www.cricbuzz.com/",
-"is_show_unity_ad": "false",
+"is_show_unity_ad": "true",
 "is_show_start_ad": "false",
 "is_popa": "false",
 "unity_test_mode": "false",
