@@ -25,7 +25,7 @@
 
 
 "showDialog":true,
-"cancel":1,
+"cancel":0,
 "dialogTitle":"this is title",
 "dialogMessage":"this is message",
 "dialogButton":"visit",
