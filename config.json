@@ -20,5 +20,15 @@
 "share_text": "Watch Live Sports For FREE on the Krira TV app. Download Now: https://www.kriratv.com/",
 "banner_ad": "https://www.kriratv.com/assets/images/banner_spotifypremium.png",
 "banner_url": "https://www.spotifypremium.download/?ref=kriratv_app",
-"live_logo": "https://media0.giphy.com/media/LpWtqK3i9xv8e9lkGS/giphy.gif?cid=6c09b95228fe059d6d112b1af588211397fc819e3517d45e&rid=giphy.gif"
+"live_logo": "https://media0.giphy.com/media/LpWtqK3i9xv8e9lkGS/giphy.gif?cid=6c09b95228fe059d6d112b1af588211397fc819e3517d45e&rid=giphy.gif",
+
+
+
+"showDialog":true,
+"isCancelabe":false,
+"dialogTitle":"this is title",
+"dialogMessage":"this is message",
+"dialogButton":"visit",
+"dialogLink":"http://www.google.com"
+
 }
