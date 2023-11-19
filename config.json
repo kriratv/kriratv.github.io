@@ -25,7 +25,7 @@
 
 
 "showDialog":true,
-"cancel":0,
+"cancel":1,
 "dialogTitle":"Update Our New App",
 "dialogMessage":"Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test. Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test.",
 "dialogButton":"Update Now!",
