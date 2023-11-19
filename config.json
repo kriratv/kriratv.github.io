@@ -25,10 +25,10 @@
 
 
 "showDialog":true,
-"isDialogCancelabe" : "true",
+"cancel":1,
 "dialogTitle":"this is title",
 "dialogMessage":"this is message",
 "dialogButton":"visit",
-"dialogLink":"http://www.google.com"
+"dialog":"http://www.google.com"
 
 }
