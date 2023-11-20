@@ -24,11 +24,11 @@
 
 
 
-"showDialog":true,
+"showDialog":false,
 "cancel":1,
 "dialogTitle":"Update Our New App",
-"dialogMessage":"Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test. Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test. ",
+"dialogMessage":"Update Our New App",
 "dialogButton":"Update Now!",
-"dialog":"http://www.google.com"
+"dialog":"https://www.kriratv.com"
 
 }
