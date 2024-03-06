@@ -26,7 +26,7 @@
 
 
 
-"showDialog":true,
+"showDialog":false,
 "cancel":1,
 "dialogTitle":"Join us on Telegram",
 "dialogMessage":"To get latest update of krira TV app, join our Telegram channel.",
